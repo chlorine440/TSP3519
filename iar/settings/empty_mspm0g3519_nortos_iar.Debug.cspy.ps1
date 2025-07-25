@@ -23,9 +23,9 @@
 
 if ($debugfile -eq "")
 {
-& "C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "D:\Documents\nuedc\TSP-main(encoder_test)\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.general.xcl" --backend -f "D:\Documents\nuedc\TSP-main(encoder_test)\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.driver.xcl" 
+& "C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "D:\Documents\nuedc\TSP-main\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.general.xcl" --backend -f "D:\Documents\nuedc\TSP-main\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.driver.xcl" 
 }
 else
 {
-& "C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "D:\Documents\nuedc\TSP-main(encoder_test)\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\Documents\nuedc\TSP-main(encoder_test)\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.driver.xcl" 
+& "C:\iar\ewarm-9.60.3\common\bin\cspybat" -f "D:\Documents\nuedc\TSP-main\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.general.xcl" --debug_file=$debugfile --backend -f "D:\Documents\nuedc\TSP-main\TSP3519\iar\settings\empty_mspm0g3519_nortos_iar.Debug.driver.xcl" 
 }
