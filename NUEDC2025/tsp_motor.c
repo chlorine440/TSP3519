@@ -43,6 +43,7 @@ void tsp_encoder_clear(void){
     TSP_QEI2_ResetCount();
 }
 
+// 快捷测试电机和编码器功能
 void Motor_test(void){
     while(1){
         SLEEP_HIGH();
