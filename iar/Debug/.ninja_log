@@ -1,0 +1,96 @@
+# ninja log v5
+2	392	7749605540445999	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/iar_102420246905159791.dir/startup_mspm0g351x_iar.o	f124c3fecd8b7c83
+514	1628	7749652322675126	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_TFT18.o	ebeb5e451585450e
+1	326	7750664999389640	build_ide.ninja	2a69dc2be8d15a3e
+136	899	7749789878475802	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	c96ba211c74c3c43
+0	4516	7749768732902383	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/SysConfig_Generated_Files.ipcf	f0707de2e2d4d92
+2	491	7749790933833774	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_MPU6050.o	c4cd2d32ba260c53
+493	705	7749790935998644	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	f3d40702a6f9c374
+612	1299	7749652319358514	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_gpio.o	a1a234e164878385
+121	707	7749775315254470	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_isr.o	fdd3d1a0ec4bef89
+236	771	7749775316001553	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_i2c.o	4d9d859ecaebf06c
+855	1703	7750670085632079	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_gpio.o	f62cb8be9a2bbe9f
+1146	2507	7749768768208609	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_uart.o	4563277e9e1e58ef
+1444	2511	7749768768242731	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	a2c231213fce02dc
+0	3059	7750649187887125	D:/Study_resources/电赛/TSP/TSP3519/iar/SysConfig_Generated_Files.ipcf	53ab432bc23345c3
+2	777	7749789877264672	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	d661f1d9b9276367
+2	576	7749781240221304	D:/Study_resources/电赛/main/main/TSP3519/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_pwm.o	539b366f1711df29
+2	1273	7750499192829670	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/iar_102420246905159791.dir/startup_mspm0g351x_iar.o	498f1c7265f8abe6
+1451	2152	7750643377976038	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_uart.o	dc89bb42c021053e
+736	1829	7750670085903625	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_pwm.o	ad79a9ca98528764
+2	562	7750682981946038	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	eabf3bae8176be5
+977	1847	7750670087011829	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_MPU6050.o	64ccd48dd88f293
+121	1826	7750670086051218	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_isr.o	995deb112673e1bb
+1096	1818	7750670086130644	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	a5f6530b3f3ff48f
+599	1836	7750670086553639	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_i2c.o	44c436a8cfa6efbd
+127	841	7750668154937433	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	a631826c144a129d
+113	865	7750682984978168	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_TFT18.o	fd205115f78e8fe9
+548	752	7750683306436561	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	216e1f6c1adfcf80
+2	565	7750679573524967	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_adc.o	87d3afb11882182a
+237	1833	7750670085948754	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_servo.o	b8123ecc33e41fed
+3	547	7750683304365893	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_CCD.o	52111fffd60ad115
+4	1598	7750694906753926	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	eabf3bae8176be5
+118	1719	7750694907222411	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_isr.o	995deb112673e1bb
+882	1722	7750694907172327	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_gpio.o	f62cb8be9a2bbe9f
+454	1725	7750694907009392	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_adc.o	87d3afb11882182a
+235	1727	7750694907762354	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_CCD.o	52111fffd60ad115
+691	1730	7750694907363577	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_i2c.o	44c436a8cfa6efbd
+341	1732	7750694907202406	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_servo.o	b8123ecc33e41fed
+574	1734	7750694907299265	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_pwm.o	ad79a9ca98528764
+790	1758	7750694908369809	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_MPU6050.o	64ccd48dd88f293
+986	1947	7750694910232460	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_TFT18.o	fd205115f78e8fe9
+1600	2110	7750694911907544	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	a5f6530b3f3ff48f
+1	360	7750695083791785	build_ide.ninja	2a69dc2be8d15a3e
+2	487	7750695088721841	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_motor.o	84983f3c5d07379d
+489	701	7750695090820166	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	ec4511e8b49108d5
+301	1049	7751272954555742	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_motor.o	84983f3c5d07379d
+4	1055	7751272954587631	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	eabf3bae8176be5
+497	1129	7751272955322581	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_pwm.o	ad79a9ca98528764
+1131	1771	7751272961803240	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	ec4511e8b49108d5
+2	538	7751273988116373	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_motor.o	84983f3c5d07379d
+540	739	7751273990154519	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	ec4511e8b49108d5
+0	3008	7751278747826765	D:/Study_resources/电赛/TSP/TSP3519/iar/SysConfig_Generated_Files.ipcf	53ab432bc23345c3
+3009	3437	7751278752898816	build_ide.ninja	2a69dc2be8d15a3e
+253	850	7751278761425117	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	a5f6530b3f3ff48f
+2	939	7751278762298743	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	a631826c144a129d
+941	1164	7751278764514856	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	ec4511e8b49108d5
+192	728	7751279709924280	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	a5f6530b3f3ff48f
+2	825	7751279710873300	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	a631826c144a129d
+826	1016	7751279712831239	D:/Study_resources/电赛/TSP/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	ec4511e8b49108d5
+1	5295	7751288344867428	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/SysConfig_Generated_Files.ipcf	61a91656c8be6635
+5297	5686	7751288354268758	build_ide.ninja	17972b897dd87330
+0	1616	7751288370520963	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/iar_102420246905159791.dir/startup_mspm0g351x_iar.o	1ba91934383dae8f
+200	2126	7751288375461761	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_uart.o	f0c6658efd46a11c
+1063	2268	7751288375441761	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_gpio.o	38726db4a9e1ba32
+822	2411	7751288375481761	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_motor.o	36c0e07353716037
+938	2573	7751288375581771	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_adc.o	327dd4b6c0e638ed
+1235	2738	7751288375976905	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_servo.o	48357bd5343192ca
+476	2742	7751288379550005	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_TFT18.o	e7caab6758d22f85
+333	2745	7751288375671889	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	ee4afcd6e53a147
+675	2747	7751288375721855	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_pwm.o	4ade0712e0f4faec
+88	2751	7751288376833232	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_MPU6050.o	52505f51e7858a5c
+1619	2953	7751288383710399	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+2128	3157	7751288385767755	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_isr.o	ce8a0d0bbdb07671
+2416	3184	7751288386040110	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/TSP_CCD.o	c84ba4cbc76f3365
+2576	3234	7751288386570138	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_i2c.o	c581541f74037346
+2271	3301	7751288387205756	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	6c3ed5b8becbc362
+3303	3798	7751288392226675	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+177	840	7751289438847815	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/NUEDU2025_11847588325976546582.dir/tsp_motor.o	36c0e07353716037
+8	849	7751289438927813	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+356	887	7751289439302961	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	ee4afcd6e53a147
+889	1154	7751289442002876	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+2	877	7751291099311320	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+376	919	7751291099736927	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/TSP3519_9401757970942732151.dir/tsp_qei.o	ee4afcd6e53a147
+193	1046	7751291100991607	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	6c3ed5b8becbc362
+1048	1330	7751291103865231	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+182	727	7751292803778003	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+2	867	7751292805258737	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	6c3ed5b8becbc362
+870	1138	7751292808045656	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+2	1054	7751304938046637	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/SysConfig Generated Files_5435349133262493662.dir/ti_msp_dl_config.o	6c3ed5b8becbc362
+1056	1453	7751304941847534	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+2	584	7751313840381099	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+585	810	7751313842678025	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+2	469	7751314422052870	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+471	768	7751314425190176	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
+2	519	7751315191454778	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Obj/empty_mspm0g3519_13168490636323535303.dir/TSP3519.o	20204a67093e4813
+521	799	7751315194308731	D:/Documents/nuedc/TSP-main(encoder_test)/TSP3519/iar/Debug/Exe/empty_mspm0g3519_nortos_iar.out	19bf10acaf2bc1a8
