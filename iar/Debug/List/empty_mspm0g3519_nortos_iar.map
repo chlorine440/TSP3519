@@ -1,6 +1,6 @@
 ###############################################################################
 #
-# IAR ELF Linker V9.60.3.422/W64 for ARM                  25/Jul/2025  18:57:50
+# IAR ELF Linker V9.60.3.422/W64 for ARM                  25/Jul/2025  20:01:16
 # Copyright 2007-2024 IAR Systems AB.
 #
 #    Output file  =
@@ -543,7 +543,7 @@ LFSS_IRQHandler              0x129b    0x2  Code  Wk  startup_mspm0g351x_iar.o [
 MPU6050GetRPY                0x1de5   0x46  Code  Gb  TSP_MPU6050.o [3]
 MPU6050ReadGyro              0x1d05   0x50  Code  Gb  TSP_MPU6050.o [3]
 MPU6050_ReadData             0x1cf5    0xe  Code  Gb  TSP_MPU6050.o [3]
-Motor_test                   0x1cb5   0x38  Code  Gb  tsp_motor.o [1]
+Motor_test                   0x1cb5   0x36  Code  Gb  tsp_motor.o [1]
 NMI_Handler                  0x129b    0x2  Code  Wk  startup_mspm0g351x_iar.o [5]
 PendSV_Handler               0x129b    0x2  Code  Wk  startup_mspm0g351x_iar.o [5]
 RES_value               0x2020'0368    0x4  Data  Gb  TSP3519.o [4]

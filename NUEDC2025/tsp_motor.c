@@ -47,7 +47,7 @@ void tsp_encoder_clear(void){
 void Motor_test(void){
     while(1){
         SLEEP_HIGH();
-        tsp_motor_control(2000,MOTOR2);
+        tsp_motor_control(50,MOTOR2);
         uint32_t value[2];
         tsp_encoder_get_value(value);
         tsp_encoder_clear();

@@ -350,17 +350,17 @@ SYSCONFIG_WEAK void SYSCFG_DL_Servo_init(void) {
 /*
  * Timer clock configuration to be sourced by  / 4 (20000000 Hz)
  * timerClkFreq = (timerClkSrc / (timerClkDivRatio * (timerClkPrescale + 1)))
- *   200000 Hz = 20000000 Hz / (4 * (99 + 1))
+ *   2000000 Hz = 20000000 Hz / (4 * (9 + 1))
  */
 static const DL_TimerA_ClockConfig gMotorClockConfig = {
     .clockSel = DL_TIMER_CLOCK_BUSCLK,
     .divideRatio = DL_TIMER_CLOCK_DIVIDE_4,
-    .prescale = 99U
+    .prescale = 9U
 };
 
 static const DL_TimerA_PWMConfig gMotorConfig = {
     .pwmMode = DL_TIMER_PWM_MODE_EDGE_ALIGN_UP,
-    .period = 4000,
+    .period = 100,
     .isTimerWithFourCC = true,
     .startTimer = DL_TIMER_START,
 };

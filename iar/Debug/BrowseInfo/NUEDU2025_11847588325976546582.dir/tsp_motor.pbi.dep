@@ -1,15 +1,20 @@
-D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\TSP3519_9401757970942732151.dir\tsp_i2c.pbi: \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_i2c.c \
-  D:\Documents\nuedc\TSP-main\TSP3519\iar\ti_msp_dl_config.h \
-  C:\ti\mspm0_sdk_2_05_01_00\source\ti\devices\msp\msp.h \
-  C:\ti\mspm0_sdk_2_05_01_00\source\ti\devices\DeviceFamily.h \
-  C:\ti\mspm0_sdk_2_05_01_00\source\ti\devices\msp\m0p\mspm0g351x.h \
-  C:\iar\ewarm-9.60.3\arm\inc\c\stdint.h \
+D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\NUEDU2025_11847588325976546582.dir\tsp_motor.pbi: \
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_motor.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_common_headfile.h \
+  C:\iar\ewarm-9.60.3\arm\inc\c\stdio.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\ycheck.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\yvals.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\DLib_Defaults.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\DLib_Config_Full.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\DLib_Product.h \
+  C:\iar\ewarm-9.60.3\arm\inc\c\ysizet.h \
+  C:\iar\ewarm-9.60.3\arm\inc\c\stdint.h \
+  C:\iar\ewarm-9.60.3\arm\inc\c\string.h \
+  C:\iar\ewarm-9.60.3\arm\inc\c\DLib_Product_string.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\ti_msp_dl_config.h \
+  C:\ti\mspm0_sdk_2_05_01_00\source\ti\devices\msp\msp.h \
+  C:\ti\mspm0_sdk_2_05_01_00\source\ti\devices\DeviceFamily.h \
+  C:\ti\mspm0_sdk_2_05_01_00\source\ti\devices\msp\m0p\mspm0g351x.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\stdbool.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\third_party\CMSIS\Core\Include\core_cm0plus.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\third_party\CMSIS\Core\Include\cmsis_version.h \
@@ -53,7 +58,6 @@ D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\TSP3519_940175797094273
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\m0p\dl_core.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\dl_aes.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\stddef.h \
-  C:\iar\ewarm-9.60.3\arm\inc\c\ysizet.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\dl_aesadv.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\dl_comp.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\dl_crc.h \
@@ -91,20 +95,15 @@ D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\TSP3519_940175797094273
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\dl_wwdt.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\m0p\dl_interrupt.h \
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\m0p\dl_systick.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_i2c.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_gpio.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_common_headfile.h \
-  C:\iar\ewarm-9.60.3\arm\inc\c\stdio.h \
-  C:\iar\ewarm-9.60.3\arm\inc\c\string.h \
-  C:\iar\ewarm-9.60.3\arm\inc\c\DLib_Product_string.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_adc.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_uart.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_qei.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_pwm.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\TSP_MPU6050.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\TSP_TFT18.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\TSP_CCD.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\NUEDC2025\tsp_isr.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\TSP3519\tsp_common_headfile.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\NUEDC2025\tsp_motor.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\NUEDC2025\tsp_servo.h
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_adc.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_gpio.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_uart.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_i2c.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_qei.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_pwm.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\TSP_MPU6050.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\TSP_TFT18.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\TSP_CCD.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_isr.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_servo.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_motor.c
