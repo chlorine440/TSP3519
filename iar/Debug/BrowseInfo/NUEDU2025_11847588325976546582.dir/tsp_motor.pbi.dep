@@ -1,4 +1,5 @@
 D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\NUEDU2025_11847588325976546582.dir\tsp_motor.pbi: \
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_motor.c \
   D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_motor.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_common_headfile.h \
   C:\iar\ewarm-9.60.3\arm\inc\c\stdio.h \
@@ -97,6 +98,7 @@ D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\NUEDU2025_1184758832597
   C:\ti\mspm0_sdk_2_05_01_00\source\ti\driverlib\m0p\dl_systick.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_adc.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_gpio.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_common_headfile.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_uart.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_i2c.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\tsp_qei.h \
@@ -105,5 +107,5 @@ D:\Documents\nuedc\TSP-main\TSP3519\iar\Debug\BrowseInfo\NUEDU2025_1184758832597
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\TSP_TFT18.h \
   D:\Documents\nuedc\TSP-main\TSP3519\iar\..\TSP3519\TSP_CCD.h \
   D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_isr.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_servo.h \
-  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_motor.c
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_motor.h \
+  D:\Documents\nuedc\TSP-main\TSP3519\NUEDC2025\tsp_servo.h
